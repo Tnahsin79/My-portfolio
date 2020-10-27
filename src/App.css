@@ -43,3 +43,14 @@
   margin: 8vw;
   border-radius: 15px;
 }
+h1{
+  font-family: 'Grenze Gotisch', cursive;
+  font-size: 6vw;
+}
+h2{
+  font-family: 'Grenze Gotisch', cursive;
+  font-size: 4vw;
+}
+h3,h4,h5,p{
+  font-family: 'Special Elite', cursive;
+}

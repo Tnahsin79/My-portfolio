@@ -10,16 +10,16 @@ const About = () => {
             <div className="row">
                 <div className="col col-5"><h2>ABOUT ME</h2></div>
                 <div className="col col-7">
-                    <h2>
+                    <h3>
                         My name is Nishant Sharma. I'm a graduate with a degree of B.Tech in
                         Computer Science and Engineering from Guru Gobind Singh Indraprasstha University.
                         I am a Full Stack MERN Developer, with keen understanding of MongoDB,
                         ExpressJS, ReactJS, NodeJS, Data Structures and Algorithms.
-                    </h2>
-                    <h2>
+                    </h3>
+                    <h3>
                         I have 400+ codekata code submission on GUVI platform. Other than coding,
                         my interest lie in anime, movies and travelling.
-                    </h2>
+                    </h3>
                 </div>
             </div>
         </div>

@@ -5,6 +5,7 @@ import Education from "./components/Education";
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import Projects from "./components/Projects";
 import './App.css';
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#experience-div">Experience</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="#projects-div">Projects</a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#contact-div">Contact Me</a>
@@ -47,6 +51,7 @@ function App() {
       <div id="education-div"><Education /></div>
       <div id="skills-div"><Skills /></div>
       <div id="experience-div"><Experience /></div>
+      <div id="projects-div"><Projects /></div>
       <div id="contact-div"><Contact /></div>
     </div>
   );

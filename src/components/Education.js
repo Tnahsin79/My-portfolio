@@ -11,7 +11,7 @@ const Education = () => {
                 <div className="col col-5"><h2>EDUCATION</h2></div>
                 <div className="col col-7">
                     <div class="card-deck">
-                        <div class="card border-primary mb-3">
+                        <div class="card border-primary mb-3 edu">
                             <div class="card-header">High School (10+2)</div>
                             <div class="card-body">
                                 <h5 class="card-title">NUTAN VIDYA MANDIR SR. SEC. SCHOOL, DELHI</h5>
@@ -19,7 +19,7 @@ const Education = () => {
                                 <p class="card-text">Class 12th: Percentage = 87.3%</p>
                             </div>
                         </div>
-                        <div class="card border-primary mb-3">
+                        <div class="card border-primary mb-3 edu">
                             <div class="card-header">UG B.Tech (CSE)</div>
                             <div class="card-body">
                                 <h5 class="card-title">Dr. Akhilesh Das Gupta Institute of Technology and Management (formerly NORTHERN INDIA ENGINEERING COLLEGE)</h5>
